@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1092.jpg,Fog,0.97,254,119,414,209
+de_roadsigns_1092.jpg,Falling_rocks,0.86,10,7,130,114
+de_roadsigns_1092.jpg,Cyclists,0.84,990,446,1231,657
+de_roadsigns_1092.jpg,No_vehicles_carrying_dangerous_goods,0.82,744,338,865,460
+de_roadsigns_1092.jpg,Series_of_curves,0.63,492,228,621,337

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1023.jpg,Bus_lane,0.97,10,8,249,252
+de_roadsigns_1023.jpg,Segregated_pedestrian_and_cycle_path,0.92,258,120,502,366
+de_roadsigns_1023.jpg,Crosswinds,0.91,993,448,1111,556
+de_roadsigns_1023.jpg,Pedal_cycles_only,0.84,748,341,988,586
+de_roadsigns_1023.jpg,No_vehicles_carrying_inflammables_or_explosives,0.8,508,231,741,366

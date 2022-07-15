@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1078.jpg,End_of_minimum_speed_limit,0.97,742,338,983,581
+de_roadsigns_1078.jpg,Parking,0.97,496,226,739,471
+de_roadsigns_1078.jpg,Low_flying_aircraft,0.85,254,119,378,227
+de_roadsigns_1078.jpg,Slippery_surface,0.83,10,8,249,223
+de_roadsigns_1078.jpg,Unprotected_quayside_or_riverbank,0.79,990,449,1112,557

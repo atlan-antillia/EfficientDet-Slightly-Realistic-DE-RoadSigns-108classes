@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1083.jpg,End_of_priority_road,0.97,255,120,376,241
+de_roadsigns_1083.jpg,Opening_bridge,0.92,993,449,1227,661
+de_roadsigns_1083.jpg,Road_narrows,0.83,498,230,618,335
+de_roadsigns_1083.jpg,Taxi_stand,0.77,8,5,131,191
+de_roadsigns_1083.jpg,Cyclists,0.58,746,340,864,446

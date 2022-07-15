@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1059.jpg,End_of_priority_road,0.96,251,117,378,243
+de_roadsigns_1059.jpg,Pedestrians_only,0.95,988,448,1233,693
+de_roadsigns_1059.jpg,Advisory_speed,0.91,498,230,619,349
+de_roadsigns_1059.jpg,Weight_limit_per_axle,0.88,744,335,866,461
+de_roadsigns_1059.jpg,Toll,0.88,7,9,132,132

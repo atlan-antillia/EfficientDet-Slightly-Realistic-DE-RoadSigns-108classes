@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1048.jpg,Length_limit,0.96,745,330,986,580
+de_roadsigns_1048.jpg,End_of_minimum_speed_limit,0.94,256,120,374,241
+de_roadsigns_1048.jpg,No_animal_drawn_vehicles,0.92,499,227,621,350
+de_roadsigns_1048.jpg,Speed_limit_zone,0.92,993,452,1112,573
+de_roadsigns_1048.jpg,No_vehicles_pulling_a_trailer,0.87,8,9,247,251

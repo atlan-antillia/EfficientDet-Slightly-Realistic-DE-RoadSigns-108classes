@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1012.jpg,Length_limit,0.97,746,337,986,581
+de_roadsigns_1012.jpg,Crossroads_with_priority_to_the_right,0.84,10,7,129,116
+de_roadsigns_1012.jpg,Route_for_vehicles_carrying_dangerous_goods,0.82,252,119,378,300
+de_roadsigns_1012.jpg,No_vehicles_carrying_dangerous_goods,0.75,500,228,741,473
+de_roadsigns_1012.jpg,No_mopeds,0.63,986,450,1233,693

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1094.jpg,Emergency_lay_by,0.99,989,446,1230,691
+de_roadsigns_1094.jpg,Turn_right,0.93,745,338,866,462
+de_roadsigns_1094.jpg,No_animal_drawn_vehicles,0.91,498,228,622,351
+de_roadsigns_1094.jpg,Road_narrows,0.9,260,118,494,330
+de_roadsigns_1094.jpg,No_vehicles_carrying_inflammables_or_explosives,0.85,10,6,250,141

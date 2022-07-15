@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1042.jpg,No_animal_drawn_vehicles,0.98,8,6,252,251
+de_roadsigns_1042.jpg,Toll,0.65,988,449,1112,572
+de_roadsigns_1042.jpg,Uneven_surface,0.6,499,229,620,335
+de_roadsigns_1042.jpg,Steep_descent,0.46,746,338,867,446

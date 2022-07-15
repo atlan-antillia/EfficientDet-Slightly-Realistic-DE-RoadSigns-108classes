@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1014.jpg,Uneven_surface,0.82,255,118,492,331
+de_roadsigns_1014.jpg,No_mopeds,0.79,986,446,1230,690
+de_roadsigns_1014.jpg,No_parking,0.78,8,8,131,132
+de_roadsigns_1014.jpg,Weight_limit_per_axle,0.65,745,339,866,460
+de_roadsigns_1014.jpg,Speed_limit_zone,0.47,498,230,621,350

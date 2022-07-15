@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1025.jpg,Go_straight_or_turn_right,0.99,9,9,130,132
+de_roadsigns_1025.jpg,No_animal_drawn_vehicles,0.95,500,227,620,351
+de_roadsigns_1025.jpg,Soft_verges,0.93,747,339,981,517
+de_roadsigns_1025.jpg,End_of_speed_limit,0.9,254,120,375,240
+de_roadsigns_1025.jpg,End_of_no_overtaking_by_heavy_goods_vehicles,0.81,991,449,1113,573

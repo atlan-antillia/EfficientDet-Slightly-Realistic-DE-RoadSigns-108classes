@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1060.jpg,Minimum_following_distance_between_vehicles,0.97,9,9,131,132
+de_roadsigns_1060.jpg,No_entry,0.93,498,229,743,476
+de_roadsigns_1060.jpg,Unprotected_quayside_or_riverbank,0.84,990,445,1233,660
+de_roadsigns_1060.jpg,Parking,0.77,253,117,377,242
+de_roadsigns_1060.jpg,Uneven_surface,0.65,747,341,868,446

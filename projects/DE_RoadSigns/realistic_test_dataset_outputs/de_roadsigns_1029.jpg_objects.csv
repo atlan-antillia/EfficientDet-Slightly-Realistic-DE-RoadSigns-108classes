@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1029.jpg,Traffic_signals,0.96,990,449,1235,663
+de_roadsigns_1029.jpg,National_border,0.95,251,119,497,364
+de_roadsigns_1029.jpg,Pedestrian_crossing_ahead,0.89,8,7,129,117
+de_roadsigns_1029.jpg,No_animal_drawn_vehicles,0.82,744,334,867,464
+de_roadsigns_1029.jpg,Parking,0.69,500,232,621,352

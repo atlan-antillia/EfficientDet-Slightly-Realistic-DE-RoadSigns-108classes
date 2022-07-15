@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1088.jpg,Ice_or_snow,0.96,258,118,497,333
+de_roadsigns_1088.jpg,Cyclists,0.95,9,9,251,222
+de_roadsigns_1088.jpg,No_heavy_goods_vehicles,0.86,746,340,988,584
+de_roadsigns_1088.jpg,No_buses,0.8,991,448,1113,572
+de_roadsigns_1088.jpg,Priority_over_oncoming_traffic,0.71,503,229,621,350

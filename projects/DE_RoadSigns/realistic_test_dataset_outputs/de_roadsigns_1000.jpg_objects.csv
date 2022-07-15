@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1000.jpg,Living_street,0.95,6,9,247,172
+de_roadsigns_1000.jpg,Parking,0.78,497,232,619,350
+de_roadsigns_1000.jpg,Speed_limit,0.74,989,450,1112,576
+de_roadsigns_1000.jpg,No_vehicles_pulling_a_trailer,0.59,744,339,868,461
+de_roadsigns_1000.jpg,No_stopping,0.44,255,120,377,241

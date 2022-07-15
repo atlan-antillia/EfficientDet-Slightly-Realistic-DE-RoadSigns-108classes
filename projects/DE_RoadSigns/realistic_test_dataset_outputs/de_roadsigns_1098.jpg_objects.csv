@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1098.jpg,Go_straight_or_turn_right,0.98,254,121,374,239
+de_roadsigns_1098.jpg,Minimum_speed_limit,0.96,498,230,744,475
+de_roadsigns_1098.jpg,No_vehicles_carrying_dangerous_goods,0.95,8,6,131,132
+de_roadsigns_1098.jpg,Roundabout,0.75,991,449,1109,570
+de_roadsigns_1098.jpg,Series_of_curves,0.47,748,339,986,551

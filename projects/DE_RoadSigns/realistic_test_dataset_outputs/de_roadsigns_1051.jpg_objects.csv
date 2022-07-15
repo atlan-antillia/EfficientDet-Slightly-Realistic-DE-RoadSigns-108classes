@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1051.jpg,No_agricultural_vehicles,0.99,8,7,249,249
+de_roadsigns_1051.jpg,Domestic_animals,0.97,257,118,496,328
+de_roadsigns_1051.jpg,Two_way_traffic,0.88,994,446,1228,660
+de_roadsigns_1051.jpg,No_mopeds,0.83,498,229,745,477
+de_roadsigns_1051.jpg,Pedestrians,0.64,749,340,985,552

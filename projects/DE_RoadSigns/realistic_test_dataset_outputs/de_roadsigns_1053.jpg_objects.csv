@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1053.jpg,Fog,0.99,11,8,172,99
+de_roadsigns_1053.jpg,No_vehicles_carrying_water_pollutants,0.86,499,228,618,351
+de_roadsigns_1053.jpg,Crossroads_with_priority_to_the_right,0.84,745,340,988,551
+de_roadsigns_1053.jpg,National_border,0.83,253,119,375,240
+de_roadsigns_1053.jpg,Parking_garage,0.81,991,447,1235,693

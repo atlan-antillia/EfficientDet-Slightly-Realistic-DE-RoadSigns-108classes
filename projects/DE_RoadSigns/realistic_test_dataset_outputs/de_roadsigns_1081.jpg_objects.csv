@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1081.jpg,Give_way_to_oncoming_traffic,0.99,8,7,250,250
+de_roadsigns_1081.jpg,Parking,0.94,502,230,738,470
+de_roadsigns_1081.jpg,Crosswinds,0.92,989,449,1110,556
+de_roadsigns_1081.jpg,No_parking,0.75,254,120,496,361

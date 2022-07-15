@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1090.jpg,Speed_limit_zone,0.97,5,9,253,254
+de_roadsigns_1090.jpg,Length_limit,0.97,746,339,986,582
+de_roadsigns_1090.jpg,Low_flying_aircraft,0.88,260,117,493,331
+de_roadsigns_1090.jpg,Road_narrows,0.46,989,450,1111,556

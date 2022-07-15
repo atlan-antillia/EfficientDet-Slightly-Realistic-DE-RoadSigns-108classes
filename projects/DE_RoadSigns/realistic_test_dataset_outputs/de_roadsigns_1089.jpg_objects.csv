@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1089.jpg,Fog,0.97,262,121,489,252
+de_roadsigns_1089.jpg,Parking,0.96,500,231,742,475
+de_roadsigns_1089.jpg,Pedal_cycles_only,0.93,9,8,131,133
+de_roadsigns_1089.jpg,No_vehicles_carrying_water_pollutants,0.83,990,448,1111,572
+de_roadsigns_1089.jpg,Stop_ahead,0.7,747,340,869,444

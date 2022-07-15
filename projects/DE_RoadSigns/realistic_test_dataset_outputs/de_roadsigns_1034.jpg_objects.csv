@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1034.jpg,Low_flying_aircraft,0.96,253,118,495,334
+de_roadsigns_1034.jpg,Speed_limit,0.92,10,10,131,132
+de_roadsigns_1034.jpg,No_overtaking,0.7,503,230,739,472
+de_roadsigns_1034.jpg,Height_limit,0.6,745,336,867,460
+de_roadsigns_1034.jpg,Uneven_surface,0.44,989,448,1109,555

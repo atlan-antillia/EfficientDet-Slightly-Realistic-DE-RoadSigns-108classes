@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1008.jpg,First_aid,0.98,8,8,130,131
+de_roadsigns_1008.jpg,Turn_right,0.97,498,229,744,474
+de_roadsigns_1008.jpg,Shared_pedestrian_and_cycle_path,0.87,992,450,1110,569
+de_roadsigns_1008.jpg,Motorway,0.74,255,119,378,240

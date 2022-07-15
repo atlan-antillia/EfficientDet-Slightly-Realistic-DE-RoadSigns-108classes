@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1079.jpg,Speed_limit_zone,0.97,497,230,743,474
+de_roadsigns_1079.jpg,Expressway,0.95,6,8,249,248
+de_roadsigns_1079.jpg,Priority_road,0.86,253,120,376,240
+de_roadsigns_1079.jpg,Traffic_signals,0.84,989,449,1110,555
+de_roadsigns_1079.jpg,Weight_limit_per_axle,0.53,747,340,865,459

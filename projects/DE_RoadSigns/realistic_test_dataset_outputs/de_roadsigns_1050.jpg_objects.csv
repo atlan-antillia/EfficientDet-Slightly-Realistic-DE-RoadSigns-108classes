@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1050.jpg,Speed_limit_zone,0.95,7,10,128,130
+de_roadsigns_1050.jpg,Two_way_traffic,0.88,995,447,1233,660
+de_roadsigns_1050.jpg,Height_limit,0.82,499,228,739,472
+de_roadsigns_1050.jpg,Length_limit,0.79,744,337,867,461
+de_roadsigns_1050.jpg,Stop,0.7,255,119,376,241

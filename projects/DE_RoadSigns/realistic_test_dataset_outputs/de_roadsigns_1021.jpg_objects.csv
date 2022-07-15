@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1021.jpg,Pedestrians_only,0.97,9,6,250,249
+de_roadsigns_1021.jpg,Traffic_signals,0.95,988,449,1237,663
+de_roadsigns_1021.jpg,Curve,0.84,256,119,495,331
+de_roadsigns_1021.jpg,Motorway,0.8,745,338,867,460
+de_roadsigns_1021.jpg,Trams,0.73,501,228,622,299

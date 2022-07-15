@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1016.jpg,End_of_no_overtaking,0.98,987,445,1232,693
+de_roadsigns_1016.jpg,Bridle_path,0.96,9,9,128,131
+de_roadsigns_1016.jpg,Crosswinds,0.94,743,339,987,554
+de_roadsigns_1016.jpg,Police,0.47,252,121,375,227

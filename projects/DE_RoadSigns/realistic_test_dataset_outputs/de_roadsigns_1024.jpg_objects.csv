@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1024.jpg,Height_limit,0.97,8,9,252,251
+de_roadsigns_1024.jpg,No_mopeds,0.93,255,120,497,364
+de_roadsigns_1024.jpg,No_heavy_goods_vehicles,0.92,745,341,985,582
+de_roadsigns_1024.jpg,Two_way_traffic,0.88,995,449,1234,663
+de_roadsigns_1024.jpg,Traffic_signals,0.86,497,233,621,338

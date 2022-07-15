@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1045.jpg,Emergency_lay_by,0.99,254,118,495,362
+de_roadsigns_1045.jpg,Fog,0.96,747,341,905,425
+de_roadsigns_1045.jpg,Weight_limit_per_axle,0.74,9,8,130,130
+de_roadsigns_1045.jpg,One_way_street,0.46,990,451,1110,572
+de_roadsigns_1045.jpg,End_of_no_overtaking_by_heavy_goods_vehicles,0.44,501,229,619,350

@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1061.jpg,Minimum_following_distance_between_vehicles,0.95,990,445,1230,691
+de_roadsigns_1061.jpg,Width_limit,0.85,496,226,619,351
+de_roadsigns_1061.jpg,No_pedal_cycles,0.66,8,7,132,130
+de_roadsigns_1061.jpg,Uneven_surface,0.56,251,121,378,230

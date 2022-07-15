@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1067.jpg,End_of_priority_road,0.97,252,119,377,243
+de_roadsigns_1067.jpg,Priority_road,0.95,9,9,131,131
+de_roadsigns_1067.jpg,Weight_limit_per_axle,0.92,990,448,1235,693
+de_roadsigns_1067.jpg,Two_way_traffic,0.91,505,229,735,442
+de_roadsigns_1067.jpg,Shared_pedestrian_and_cycle_path,0.51,742,338,865,461

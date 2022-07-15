@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1052.jpg,Speed_limit_zone,0.96,7,10,131,133
+de_roadsigns_1052.jpg,Loose_surface_material,0.94,502,230,743,440
+de_roadsigns_1052.jpg,Road_narrows,0.9,254,118,494,329
+de_roadsigns_1052.jpg,Parking_garage,0.84,749,339,989,584
+de_roadsigns_1052.jpg,Weight_limit,0.72,990,450,1111,572

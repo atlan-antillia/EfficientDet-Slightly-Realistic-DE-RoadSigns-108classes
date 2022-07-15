@@ -1,0 +1,6 @@
+id, class, count
+1,Go_straight_or_turn_right,1
+2,No_buses,1
+3,No_motorcycles,1
+4,Roundabout,1
+5,End_of_speed_limit_zone,1

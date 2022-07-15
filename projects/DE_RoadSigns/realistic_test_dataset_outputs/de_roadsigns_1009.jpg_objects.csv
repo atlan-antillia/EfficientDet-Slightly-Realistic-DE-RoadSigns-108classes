@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1009.jpg,Shared_pedestrian_and_cycle_path,0.94,8,9,250,249
+de_roadsigns_1009.jpg,Steep_descent,0.91,989,447,1234,662
+de_roadsigns_1009.jpg,Level_crossing,0.83,744,338,867,523
+de_roadsigns_1009.jpg,No_vehicles_pulling_a_trailer,0.78,499,229,619,350
+de_roadsigns_1009.jpg,No_buses,0.68,256,118,376,240

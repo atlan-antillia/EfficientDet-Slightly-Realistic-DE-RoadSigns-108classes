@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1027.jpg,Advisory_speed,0.99,988,449,1230,691
+de_roadsigns_1027.jpg,Traffic_signals,0.91,254,119,375,225
+de_roadsigns_1027.jpg,Slippery_surface,0.88,501,230,737,444
+de_roadsigns_1027.jpg,No_vehicles_carrying_inflammables_or_explosives,0.79,10,8,172,99
+de_roadsigns_1027.jpg,No_animal_drawn_vehicles,0.79,745,337,866,460

@@ -1,0 +1,5 @@
+id, class, count
+1,No_vehicles,2
+2,No_agricultural_vehicles,1
+3,Shared_pedestrian_and_cycle_path,1
+4,Speed_limit_zone,1

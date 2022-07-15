@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1071.jpg,Speed_limit_zone,0.94,251,121,376,243
+de_roadsigns_1071.jpg,Steep_descent,0.87,7,11,130,120
+de_roadsigns_1071.jpg,Pedestrians,0.71,989,447,1234,659
+de_roadsigns_1071.jpg,Soft_verges,0.62,742,336,824,399
+de_roadsigns_1071.jpg,No_parking,0.4,498,227,620,351

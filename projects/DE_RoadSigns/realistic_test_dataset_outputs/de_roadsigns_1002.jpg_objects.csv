@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1002.jpg,No_vehicles,0.97,991,447,1236,692
+de_roadsigns_1002.jpg,Ice_or_snow,0.94,498,227,743,445
+de_roadsigns_1002.jpg,Stop_ahead,0.79,257,119,375,228
+de_roadsigns_1002.jpg,Roadworks,0.76,8,5,253,219
+de_roadsigns_1002.jpg,Steep_descent,0.66,747,337,867,448

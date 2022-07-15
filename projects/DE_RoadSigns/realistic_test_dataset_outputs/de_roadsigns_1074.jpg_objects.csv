@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1074.jpg,Keep_right,0.97,254,121,494,361
+de_roadsigns_1074.jpg,Steep_descent,0.9,747,338,987,555
+de_roadsigns_1074.jpg,Falling_rocks,0.9,501,228,743,445
+de_roadsigns_1074.jpg,Pedestrians,0.8,8,8,253,222
+de_roadsigns_1074.jpg,No_vehicles_carrying_dangerous_goods,0.77,990,448,1112,572

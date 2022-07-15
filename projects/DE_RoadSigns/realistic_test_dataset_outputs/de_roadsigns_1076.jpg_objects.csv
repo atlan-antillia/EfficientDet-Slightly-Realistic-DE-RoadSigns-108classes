@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1076.jpg,Speed_limit,0.93,499,229,739,470
+de_roadsigns_1076.jpg,Height_limit,0.93,987,447,1235,693
+de_roadsigns_1076.jpg,No_stopping,0.91,253,120,374,240
+de_roadsigns_1076.jpg,Curve,0.85,9,7,129,115
+de_roadsigns_1076.jpg,Toll,0.65,747,338,988,582

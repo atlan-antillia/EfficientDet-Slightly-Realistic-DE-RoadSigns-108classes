@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1096.jpg,End_of_speed_limit,0.98,257,122,497,363
+de_roadsigns_1096.jpg,No_buses,0.97,502,233,743,473
+de_roadsigns_1096.jpg,Shared_pedestrian_and_cycle_path,0.93,8,10,250,252
+de_roadsigns_1096.jpg,Ice_or_snow,0.78,990,450,1110,557

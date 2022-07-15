@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1072.jpg,Shared_pedestrian_and_cycle_path,0.91,987,446,1230,692
+de_roadsigns_1072.jpg,Cyclists,0.9,501,230,742,442
+de_roadsigns_1072.jpg,Two_way_traffic,0.87,253,119,377,227
+de_roadsigns_1072.jpg,Speed_limit_zone,0.84,748,340,866,461
+de_roadsigns_1072.jpg,No_animal_drawn_vehicles,0.56,9,6,130,130

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1058.jpg,Priority_road,0.98,256,118,499,366
+de_roadsigns_1058.jpg,Length_limit,0.9,743,338,868,463
+de_roadsigns_1058.jpg,Trams,0.78,7,10,251,147
+de_roadsigns_1058.jpg,Uneven_surface,0.56,992,449,1109,554
+de_roadsigns_1058.jpg,Steep_descent,0.56,498,230,620,336

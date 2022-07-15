@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1036.jpg,Crosswinds,0.94,7,9,130,116
+de_roadsigns_1036.jpg,Toll,0.93,498,230,743,471
+de_roadsigns_1036.jpg,First_aid,0.88,987,449,1113,573
+de_roadsigns_1036.jpg,Stop,0.85,256,120,500,366
+de_roadsigns_1036.jpg,No_stopping,0.78,748,340,866,460

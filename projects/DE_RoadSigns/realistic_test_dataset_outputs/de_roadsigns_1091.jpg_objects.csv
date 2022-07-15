@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1091.jpg,Bus_stop,0.99,9,8,130,130
+de_roadsigns_1091.jpg,No_motorcycles,0.98,990,443,1229,690
+de_roadsigns_1091.jpg,No_overtaking_by_heavy_goods_vehicles,0.83,254,119,495,361
+de_roadsigns_1091.jpg,End_of_speed_limit_zone,0.71,503,231,619,352
+de_roadsigns_1091.jpg,Curve,0.56,742,340,864,444

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1018.jpg,No_buses,0.98,746,338,985,578
+de_roadsigns_1018.jpg,Route_for_vehicles_carrying_dangerous_goods,0.85,497,227,619,409
+de_roadsigns_1018.jpg,Shared_pedestrian_and_cycle_path,0.67,991,450,1109,571
+de_roadsigns_1018.jpg,Series_of_curves,0.61,6,7,129,115
+de_roadsigns_1018.jpg,Falling_rocks,0.57,254,119,376,229

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1028.jpg,Priority_road,0.95,990,449,1111,571
+de_roadsigns_1028.jpg,Length_limit,0.91,500,225,623,353
+de_roadsigns_1028.jpg,Trams,0.79,8,9,251,144
+de_roadsigns_1028.jpg,No_u_turn,0.75,255,122,377,242
+de_roadsigns_1028.jpg,Crossroads_with_priority_to_the_right,0.6,746,340,866,446

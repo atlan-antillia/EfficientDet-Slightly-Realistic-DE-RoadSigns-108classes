@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1093.jpg,Opening_bridge,0.91,744,337,984,555
+de_roadsigns_1093.jpg,No_pedestrians,0.91,989,447,1238,693
+de_roadsigns_1093.jpg,No_vehicles_carrying_inflammables_or_explosives,0.8,500,229,658,319
+de_roadsigns_1093.jpg,Crossroads_with_priority_to_the_right,0.68,253,120,378,226
+de_roadsigns_1093.jpg,Series_of_curves,0.63,10,10,252,222

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1006.jpg,Pedestrian_crossing,0.98,504,230,739,471
+de_roadsigns_1006.jpg,Segregated_pedestrian_and_cycle_path,0.95,747,329,989,583
+de_roadsigns_1006.jpg,Priority_over_oncoming_traffic,0.93,257,119,498,367
+de_roadsigns_1006.jpg,Slippery_surface,0.88,8,9,252,225
+de_roadsigns_1006.jpg,Traffic_signals,0.49,991,450,1110,556

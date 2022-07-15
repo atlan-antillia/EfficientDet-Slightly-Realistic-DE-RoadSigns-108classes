@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1044.jpg,Fog,0.93,503,230,742,367
+de_roadsigns_1044.jpg,Unprotected_quayside_or_riverbank,0.79,6,8,249,223
+de_roadsigns_1044.jpg,First_aid,0.7,747,340,866,463
+de_roadsigns_1044.jpg,Pedestrians_only,0.69,253,118,376,242
+de_roadsigns_1044.jpg,Pedestrian_crossing_ahead,0.45,989,448,1111,555

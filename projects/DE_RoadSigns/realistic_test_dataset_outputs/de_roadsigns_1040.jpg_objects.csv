@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1040.jpg,Bus_stop,0.98,988,446,1231,691
+de_roadsigns_1040.jpg,Turn_right,0.96,255,120,373,240
+de_roadsigns_1040.jpg,Length_limit,0.9,499,222,622,351
+de_roadsigns_1040.jpg,Roundabout,0.9,6,8,128,131
+de_roadsigns_1040.jpg,Curve,0.66,744,341,987,551

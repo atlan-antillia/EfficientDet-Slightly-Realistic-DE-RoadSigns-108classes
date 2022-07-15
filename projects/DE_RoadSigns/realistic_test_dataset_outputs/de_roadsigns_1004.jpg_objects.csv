@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1004.jpg,Opening_bridge,0.97,8,9,253,224
+de_roadsigns_1004.jpg,Priority_over_oncoming_traffic,0.93,744,339,981,580
+de_roadsigns_1004.jpg,Pedestrians_only,0.88,254,120,498,366
+de_roadsigns_1004.jpg,No_vehicles_pulling_a_trailer,0.56,990,450,1111,572

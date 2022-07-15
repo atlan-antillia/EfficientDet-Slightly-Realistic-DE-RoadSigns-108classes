@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1013.jpg,Keep_right,0.96,745,341,986,584
+de_roadsigns_1013.jpg,No_u_turn,0.92,8,6,130,131
+de_roadsigns_1013.jpg,Lane_configuration,0.86,501,231,620,383
+de_roadsigns_1013.jpg,Toll,0.58,252,120,375,242
+de_roadsigns_1013.jpg,Minimum_speed_limit,0.41,992,450,1109,571

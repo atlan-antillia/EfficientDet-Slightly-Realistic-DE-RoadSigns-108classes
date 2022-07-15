@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1095.jpg,Pedestrian_zone,0.94,254,119,495,363
+de_roadsigns_1095.jpg,Road_narrows,0.9,745,335,986,553
+de_roadsigns_1095.jpg,Speed_limit_zone,0.9,992,453,1111,573
+de_roadsigns_1095.jpg,Shared_pedestrian_and_cycle_path,0.83,9,9,129,132

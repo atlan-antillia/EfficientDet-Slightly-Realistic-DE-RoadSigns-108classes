@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1026.jpg,No_vehicles,0.97,499,226,743,471
+de_roadsigns_1026.jpg,No_agricultural_vehicles,0.97,987,446,1230,690
+de_roadsigns_1026.jpg,No_vehicles,0.95,7,8,133,132
+de_roadsigns_1026.jpg,Shared_pedestrian_and_cycle_path,0.92,253,120,375,240
+de_roadsigns_1026.jpg,Speed_limit_zone,0.52,750,340,864,459

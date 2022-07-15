@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1082.jpg,Tunnel,0.98,255,118,496,363
+de_roadsigns_1082.jpg,One_way_street,0.93,742,340,988,582
+de_roadsigns_1082.jpg,Stop,0.88,8,9,130,129
+de_roadsigns_1082.jpg,Police,0.49,989,448,1232,658
+de_roadsigns_1082.jpg,Lane_configuration,0.41,502,234,620,382

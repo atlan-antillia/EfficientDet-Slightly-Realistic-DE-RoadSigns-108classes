@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1030.jpg,Priority_road,0.96,9,6,245,247
+de_roadsigns_1030.jpg,Fog,0.96,746,337,902,426
+de_roadsigns_1030.jpg,Minimum_speed_limit,0.7,499,228,619,350
+de_roadsigns_1030.jpg,Speed_limit,0.7,987,448,1110,572
+de_roadsigns_1030.jpg,Traffic_signals,0.42,254,120,373,223

@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1064.jpg,Segregated_pedestrian_and_cycle_path,0.95,255,120,378,243
+de_roadsigns_1064.jpg,End_of_priority_road,0.94,987,448,1112,573
+de_roadsigns_1064.jpg,Unprotected_quayside_or_riverbank,0.82,10,7,246,220
+de_roadsigns_1064.jpg,Width_limit,0.46,499,229,621,351

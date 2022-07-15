@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1080.jpg,End_of_minimum_speed_limit,0.99,9,7,131,132
+de_roadsigns_1080.jpg,Roundabout,0.93,746,339,864,459
+de_roadsigns_1080.jpg,Traffic_queues,0.86,499,230,622,337
+de_roadsigns_1080.jpg,Crossroads_with_a_minor_road,0.75,251,119,375,225
+de_roadsigns_1080.jpg,No_vehicles_pulling_a_trailer,0.57,988,450,1110,573

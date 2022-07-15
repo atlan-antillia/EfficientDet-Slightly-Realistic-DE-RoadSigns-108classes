@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1033.jpg,Priority_road,0.98,992,449,1233,694
+de_roadsigns_1033.jpg,Pedestrians_only,0.94,8,8,251,252
+de_roadsigns_1033.jpg,Two_way_traffic,0.89,503,227,740,443
+de_roadsigns_1033.jpg,Trams,0.87,750,341,983,474
+de_roadsigns_1033.jpg,Go_straight,0.63,256,122,374,239

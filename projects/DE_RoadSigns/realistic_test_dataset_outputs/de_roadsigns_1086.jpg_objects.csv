@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1086.jpg,End_of_no_overtaking_by_heavy_goods_vehicles,0.98,501,230,740,472
+de_roadsigns_1086.jpg,Height_limit,0.97,8,9,129,130
+de_roadsigns_1086.jpg,Traffic_signals,0.96,988,447,1231,663
+de_roadsigns_1086.jpg,Falling_rocks,0.95,253,119,499,334
+de_roadsigns_1086.jpg,No_agricultural_vehicles,0.86,744,338,866,462

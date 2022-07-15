@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1035.jpg,No_mopeds,0.73,988,447,1233,693
+de_roadsigns_1035.jpg,End_of_no_overtaking_by_heavy_goods_vehicles,0.69,499,230,622,351
+de_roadsigns_1035.jpg,Stop_ahead,0.66,742,340,863,446
+de_roadsigns_1035.jpg,Police,0.59,9,7,131,115
+de_roadsigns_1035.jpg,Police,0.43,253,118,494,330

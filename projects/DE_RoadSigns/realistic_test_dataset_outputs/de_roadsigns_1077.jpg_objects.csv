@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1077.jpg,Turn_right,0.96,744,339,984,581
+de_roadsigns_1077.jpg,Crossroads_with_priority_to_the_right,0.9,502,229,742,444
+de_roadsigns_1077.jpg,Traffic_queues,0.89,254,121,374,226
+de_roadsigns_1077.jpg,Level_crossing,0.85,7,4,126,196
+de_roadsigns_1077.jpg,Taxi_stand,0.49,996,448,1109,570

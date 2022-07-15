@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1097.jpg,No_motor_vehicles_except_motorcycles,0.94,8,7,130,129
+de_roadsigns_1097.jpg,End_of_speed_limit_zone,0.93,500,231,621,354
+de_roadsigns_1097.jpg,Emergency_lay_by,0.91,741,339,866,463
+de_roadsigns_1097.jpg,Height_limit,0.7,257,120,377,240
+de_roadsigns_1097.jpg,Shared_pedestrian_and_cycle_path,0.5,989,449,1111,571

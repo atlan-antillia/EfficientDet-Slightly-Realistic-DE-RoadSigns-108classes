@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1032.jpg,Toll,0.92,989,449,1112,572
+de_roadsigns_1032.jpg,Roundabout,0.91,251,121,374,240
+de_roadsigns_1032.jpg,Stop_ahead,0.75,738,340,866,449
+de_roadsigns_1032.jpg,Give_way_ahead,0.46,9,7,129,115

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1043.jpg,No_pedestrians,0.92,745,340,987,584
+de_roadsigns_1043.jpg,Unprotected_quayside_or_riverbank,0.79,9,9,131,116
+de_roadsigns_1043.jpg,One_way_street,0.68,499,230,620,351
+de_roadsigns_1043.jpg,Domestic_animals,0.65,990,447,1109,557
+de_roadsigns_1043.jpg,No_parking,0.58,255,122,374,240

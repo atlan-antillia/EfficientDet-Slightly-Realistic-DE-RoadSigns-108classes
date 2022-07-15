@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1037.jpg,Speed_limit_zone,0.97,501,232,740,475
+de_roadsigns_1037.jpg,Roundabout,0.95,255,121,498,364
+de_roadsigns_1037.jpg,Turn_right,0.94,10,6,250,249
+de_roadsigns_1037.jpg,Width_limit,0.67,990,451,1110,571
+de_roadsigns_1037.jpg,Domestic_animals,0.45,747,336,863,445

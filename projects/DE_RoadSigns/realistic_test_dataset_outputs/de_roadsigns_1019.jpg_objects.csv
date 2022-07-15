@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1019.jpg,End_of_minimum_speed_limit,0.99,254,120,494,361
+de_roadsigns_1019.jpg,No_motorcycles,0.97,7,8,131,131
+de_roadsigns_1019.jpg,Crossroads_with_priority_to_the_right,0.61,499,229,622,335
+de_roadsigns_1019.jpg,Roadworks,0.53,742,338,864,444

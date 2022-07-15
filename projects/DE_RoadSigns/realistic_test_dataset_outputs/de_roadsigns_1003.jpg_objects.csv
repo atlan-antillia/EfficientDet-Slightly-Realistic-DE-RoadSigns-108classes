@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1003.jpg,Fog,0.94,995,448,1152,536
+de_roadsigns_1003.jpg,Pedestrians_only,0.91,254,119,493,363
+de_roadsigns_1003.jpg,No_vehicles_carrying_dangerous_goods,0.88,745,339,986,581
+de_roadsigns_1003.jpg,Two_way_traffic,0.82,7,7,130,118
+de_roadsigns_1003.jpg,Roadworks,0.52,502,232,621,335

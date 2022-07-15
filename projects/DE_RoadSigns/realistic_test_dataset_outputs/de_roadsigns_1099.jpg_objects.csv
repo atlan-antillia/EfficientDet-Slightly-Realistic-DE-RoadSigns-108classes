@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1099.jpg,Minimum_following_distance_between_vehicles,0.88,499,230,744,475
+de_roadsigns_1099.jpg,No_u_turn,0.84,8,7,132,134
+de_roadsigns_1099.jpg,Parking,0.82,990,449,1109,569
+de_roadsigns_1099.jpg,Stop_ahead,0.64,264,119,494,330
+de_roadsigns_1099.jpg,Shared_pedestrian_and_cycle_path,0.64,748,340,865,459

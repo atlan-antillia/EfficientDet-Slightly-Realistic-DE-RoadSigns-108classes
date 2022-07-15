@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1054.jpg,No_agricultural_vehicles,0.99,8,6,247,248
+de_roadsigns_1054.jpg,End_of_minimum_speed_limit,0.88,256,121,375,242
+de_roadsigns_1054.jpg,Level_crossing,0.81,988,443,1114,633
+de_roadsigns_1054.jpg,Priority_over_oncoming_traffic,0.78,745,337,866,459

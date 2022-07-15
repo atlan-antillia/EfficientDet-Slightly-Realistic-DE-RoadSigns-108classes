@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1085.jpg,Roundabout,0.97,745,340,988,585
+de_roadsigns_1085.jpg,One_way_street,0.92,258,121,492,363
+de_roadsigns_1085.jpg,Pedestrians_only,0.85,499,230,618,350
+de_roadsigns_1085.jpg,Unprotected_quayside_or_riverbank,0.82,8,6,251,218
+de_roadsigns_1085.jpg,No_vehicles_pulling_a_trailer,0.74,988,450,1235,692

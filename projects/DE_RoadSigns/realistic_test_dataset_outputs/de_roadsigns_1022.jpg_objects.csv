@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1022.jpg,Pedestrian_crossing,0.98,744,337,984,577
+de_roadsigns_1022.jpg,Loose_surface_material,0.94,501,229,743,443
+de_roadsigns_1022.jpg,No_through_road,0.89,9,8,255,252
+de_roadsigns_1022.jpg,Steep_descent,0.84,991,451,1107,555
+de_roadsigns_1022.jpg,One_way_street,0.53,258,121,373,241

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1055.jpg,Emergency_lay_by,0.98,9,10,131,131
+de_roadsigns_1055.jpg,Priority_road,0.98,989,445,1230,689
+de_roadsigns_1055.jpg,End_of_priority_road,0.93,743,338,868,465
+de_roadsigns_1055.jpg,Roundabout,0.73,499,232,620,349
+de_roadsigns_1055.jpg,Toll,0.63,253,119,374,242

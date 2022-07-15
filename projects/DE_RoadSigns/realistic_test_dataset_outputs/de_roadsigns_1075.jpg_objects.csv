@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1075.jpg,End_of_speed_limit,0.99,500,230,739,471
+de_roadsigns_1075.jpg,Emergency_lay_by,0.98,749,339,986,583
+de_roadsigns_1075.jpg,Fog,0.96,255,121,414,208
+de_roadsigns_1075.jpg,Shared_pedestrian_and_cycle_path,0.9,991,452,1110,572
+de_roadsigns_1075.jpg,Opening_bridge,0.87,8,7,130,114

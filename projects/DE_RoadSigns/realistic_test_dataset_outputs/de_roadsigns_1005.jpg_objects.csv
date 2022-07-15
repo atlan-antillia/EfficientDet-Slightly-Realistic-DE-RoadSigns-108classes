@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1005.jpg,Tunnel,0.99,744,340,989,581
+de_roadsigns_1005.jpg,Loose_surface_material,0.96,257,119,494,329
+de_roadsigns_1005.jpg,Segregated_pedestrian_and_cycle_path,0.94,9,13,130,131
+de_roadsigns_1005.jpg,No_parking,0.6,991,445,1229,689
+de_roadsigns_1005.jpg,Uneven_surface,0.5,500,230,619,336

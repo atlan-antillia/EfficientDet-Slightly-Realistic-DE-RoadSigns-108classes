@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1068.jpg,End_of_no_overtaking_by_heavy_goods_vehicles,0.99,496,232,742,471
+de_roadsigns_1068.jpg,Weight_limit_per_axle,0.94,745,336,989,581
+de_roadsigns_1068.jpg,Level_crossing_with_barriers_ahead,0.9,11,8,128,115
+de_roadsigns_1068.jpg,Minimum_speed_limit,0.85,988,445,1234,694
+de_roadsigns_1068.jpg,Pedestrian_crossing_ahead,0.53,254,121,375,227

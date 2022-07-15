@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1065.jpg,End_of_minimum_speed_limit,0.99,741,340,988,584
+de_roadsigns_1065.jpg,Restricted_parking_zone,0.94,9,8,247,252
+de_roadsigns_1065.jpg,End_of_minimum_speed_limit,0.92,993,450,1111,572
+de_roadsigns_1065.jpg,No_motorcycles,0.64,254,121,374,239
+de_roadsigns_1065.jpg,Roadworks,0.49,498,233,622,339

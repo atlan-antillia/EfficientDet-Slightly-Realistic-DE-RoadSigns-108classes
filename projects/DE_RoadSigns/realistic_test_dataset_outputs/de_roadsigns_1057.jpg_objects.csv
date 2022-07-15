@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1057.jpg,Bus_stop,0.99,499,230,742,474
+de_roadsigns_1057.jpg,Domestic_animals,0.97,9,9,256,223
+de_roadsigns_1057.jpg,Pedestrians_only,0.93,987,445,1229,691
+de_roadsigns_1057.jpg,Turn_right,0.87,744,340,863,458

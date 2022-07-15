@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1011.jpg,Roundabout,0.97,745,338,988,584
+de_roadsigns_1011.jpg,Crossroads_with_priority_to_the_right,0.81,9,7,130,116
+de_roadsigns_1011.jpg,Domestic_animals,0.75,499,229,622,337
+de_roadsigns_1011.jpg,No_vehicles_pulling_a_trailer,0.74,990,450,1235,692
+de_roadsigns_1011.jpg,Children,0.42,253,119,376,225

@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1070.jpg,Loose_surface_material,0.96,991,450,1235,663
+de_roadsigns_1070.jpg,No_pedestrians,0.92,252,119,495,361
+de_roadsigns_1070.jpg,Speed_limit_zone,0.89,744,339,868,464
+de_roadsigns_1070.jpg,Stop,0.88,10,9,129,129
+de_roadsigns_1070.jpg,End_of_no_overtaking_by_heavy_goods_vehicles,0.68,497,231,620,351

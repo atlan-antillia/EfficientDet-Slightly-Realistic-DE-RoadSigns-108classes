@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1031.jpg,End_of_priority_road,0.99,7,9,251,252
+de_roadsigns_1031.jpg,Slippery_surface,0.85,994,451,1228,659
+de_roadsigns_1031.jpg,Cyclists,0.8,502,228,740,444
+de_roadsigns_1031.jpg,Slippery_surface,0.77,256,118,376,224
+de_roadsigns_1031.jpg,Stop,0.69,745,340,865,461

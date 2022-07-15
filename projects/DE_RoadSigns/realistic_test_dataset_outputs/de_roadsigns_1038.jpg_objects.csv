@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1038.jpg,No_agricultural_vehicles,0.98,10,8,131,131
+de_roadsigns_1038.jpg,End_of_no_overtaking_by_heavy_goods_vehicles,0.94,743,338,866,462
+de_roadsigns_1038.jpg,End_of_speed_limit,0.93,499,231,621,350
+de_roadsigns_1038.jpg,Unprotected_quayside_or_riverbank,0.84,257,117,493,331
+de_roadsigns_1038.jpg,Uneven_surface,0.6,990,451,1111,558

@@ -1,0 +1,5 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1084.jpg,National_border,0.97,989,449,1109,571
+de_roadsigns_1084.jpg,No_through_road,0.89,6,8,130,132
+de_roadsigns_1084.jpg,Parking_garage,0.81,256,120,496,367
+de_roadsigns_1084.jpg,Stop_ahead,0.56,502,234,619,335

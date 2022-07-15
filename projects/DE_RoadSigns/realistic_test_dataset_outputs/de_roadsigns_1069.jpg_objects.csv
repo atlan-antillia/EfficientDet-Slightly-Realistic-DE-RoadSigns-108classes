@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1069.jpg,Go_straight_or_turn_right,0.99,9,9,130,132
+de_roadsigns_1069.jpg,Priority_road,0.98,499,225,746,472
+de_roadsigns_1069.jpg,End_of_speed_limit,0.93,255,122,373,239
+de_roadsigns_1069.jpg,End_of_no_overtaking,0.92,988,447,1113,571
+de_roadsigns_1069.jpg,Restricted_parking_zone,0.62,745,340,865,461

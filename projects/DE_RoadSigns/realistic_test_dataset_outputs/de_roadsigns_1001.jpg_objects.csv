@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1001.jpg,Motorway,0.97,500,230,740,472
+de_roadsigns_1001.jpg,Lane_configuration,0.89,252,118,375,273
+de_roadsigns_1001.jpg,Weight_limit_per_axle,0.55,991,449,1111,571
+de_roadsigns_1001.jpg,No_pedal_cycles,0.55,748,340,987,579
+de_roadsigns_1001.jpg,Stop_ahead,0.43,7,8,130,115

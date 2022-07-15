@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1062.jpg,Roundabout,0.96,255,119,492,362
+de_roadsigns_1062.jpg,Traffic_queues,0.95,992,451,1227,660
+de_roadsigns_1062.jpg,Pedal_cycles_only,0.93,9,9,130,132
+de_roadsigns_1062.jpg,Parking_garage,0.88,748,337,984,579
+de_roadsigns_1062.jpg,Pedal_cycles_only,0.64,500,231,620,351

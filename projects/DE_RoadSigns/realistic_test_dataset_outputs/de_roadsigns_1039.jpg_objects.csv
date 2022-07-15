@@ -1,0 +1,6 @@
+ImageID, Label, Confidence, XMin, YMin, XMax, YMax
+de_roadsigns_1039.jpg,Bus_stop,0.99,256,121,499,364
+de_roadsigns_1039.jpg,End_of_speed_limit,0.98,990,448,1234,693
+de_roadsigns_1039.jpg,Shared_pedestrian_and_cycle_path,0.86,747,340,864,461
+de_roadsigns_1039.jpg,Pedestrian_crossing_ahead,0.85,8,6,128,115
+de_roadsigns_1039.jpg,First_aid,0.83,501,232,621,355
