@@ -433,7 +433,7 @@ python ../../SavedModelCreator.py ^
 <br>
 <br>
 <h3>
-7. Inference FR_RoadSigns by using the saved_model
+7. Inference DE_RoadSigns by using the saved_model
 </h3>
  Please run the following bat file to infer the roadsigns by using the saved_model:
 <pre>
@@ -490,7 +490,7 @@ python ../../SavedModelInferencer.py ^
 </table>
 <br>
 <h3>
-8. Some inference results of FR RoadSigns
+8. Some inference results of DE RoadSigns
 </h3>
 
 <img src="./projects/DE_RoadSigns/realistic_test_dataset_outputs/de_roadsigns_1000.jpg" width="1280" height="auto"><br>
@@ -526,7 +526,7 @@ python ../../SavedModelInferencer.py ^
 <h3>9. COCO metrics of inference result</h3>
 The 3_inference.bat computes also the COCO metrics(f, map, mar) to the <b>realistic_test_dataset</b> as shown below:<br>
 
-<a href="./projects/FR_RoadSigns/realistic_test_dataset_outputs/prediction_f_map_mar.csv">prediction_f_map_mar.csv</a>
+<a href="./projects/DE_RoadSigns/realistic_test_dataset_outputs/prediction_f_map_mar.csv">prediction_f_map_mar.csv</a>
 
 <br>
 <img src="./asset/coco_metrics_console_test_dataset_at_epoch80_tf2.8.0_0715.png" width="740" height="auto"><br>
