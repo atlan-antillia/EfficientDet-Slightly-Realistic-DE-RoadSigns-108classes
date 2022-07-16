@@ -490,7 +490,7 @@ python ../../SavedModelInferencer.py ^
 </table>
 <br>
 <h3>
-8. Some inference results of DE RoadSigns
+8. Some inference results of realistc_test_dataset DE RoadSigns
 </h3>
 
 <img src="./projects/DE_RoadSigns/realistic_test_dataset_outputs/de_roadsigns_1000.jpg" width="1280" height="auto"><br>
